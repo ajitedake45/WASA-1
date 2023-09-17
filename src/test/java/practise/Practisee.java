@@ -10,5 +10,9 @@ public class Practisee {
 	{
 		
 		System.out.println("sample");
+		
+		System.out.println("sample 2");
 	}
+	
+	
 }
